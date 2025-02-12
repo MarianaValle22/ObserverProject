@@ -1,5 +1,7 @@
 # Observer - Caso práctico
 
+## Trabajado por: Mariana Valle Moreno
+
 ### Intención
 
 Define una dependencia de un único objeto a muchos otros de tal manera que cuando el único objeto cambia su estado, todos los objetos dependientes son notificados y actualizados automáticamente.
