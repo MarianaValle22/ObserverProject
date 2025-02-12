@@ -34,7 +34,7 @@ En este proyecto, se propone que los usuarios puedan modificar dinámicamente lo
 
 A continuación, se presentan los pasos para ejecutar el programa de manera dinámica.
 
-![Imagen Implementacion Vista](images\ImagenImplementacion.png)
+![Imagen Implementacion Vista](images/ImagenImplementacion.png)
 ### Ejecucion
 
 ```
@@ -44,4 +44,4 @@ java -cp build/classes/java/main edu.unisabana.dyas.patterns.observer.ObserverMa
 
 ```
 ### Resulatdo
-![Imagen de Prueba en el Terminal](images\ImagenPrueba.png)
+![Imagen de Prueba en el Terminal](images/ImagenPrueba.png)
