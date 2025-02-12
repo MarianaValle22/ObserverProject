@@ -32,9 +32,10 @@ Solución, con el patrón Observer:
 
 En este proyecto, se propone que los usuarios puedan modificar dinámicamente los formatos de fecha y dinero en tiempo real. Dado que los observadores DateFormatObserver y MoneyFormatObserver están suscritos al observable ConfigurationManager, estos pueden reaccionar a los cambios realizados por el usuario, ya que son notificados de inmediato.
 
+![Imagen Implementacion Vista](images/ImagenImplementacion.png)
+
 A continuación, se presentan los pasos para ejecutar el programa de manera dinámica.
 
-![Imagen Implementacion Vista](images/ImagenImplementacion.png)
 ### Ejecucion
 
 ```
